@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/level-upgrader/static/js/main.7985224e.js",
+    "static/media/background.png": "/level-upgrader/static/media/background.6dd2d20c2f17c2938072.png",
+    "index.html": "/level-upgrader/index.html",
+    "main.7985224e.js.map": "/level-upgrader/static/js/main.7985224e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7985224e.js"
+  ]
+}
